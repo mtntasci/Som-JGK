@@ -135,3 +135,16 @@ Sunum sırasında sadece dosya adını değiştirmeniz yeterlidir.
 - Sol menü üstündeki `SOM BTA / Kurumsal Demo Paneli` yazısı kaldırıldı.
 - Genel bakış ekranındaki `Operasyon Akışı` yerine Türkiye operasyon haritası eklendi.
 - Uzman Çavuş kullanıcısından `İşlem Geçmişi` menüsü kaldırıldı.
+
+
+## v7 Güncellemesi
+
+- Türkiye haritası daha gerçekçi ve tanınabilir vektör silüet ile değiştirildi.
+- İstanbul, Ankara, İzmir, Adana, Diyarbakır ve Van markerları eklendi.
+- Harita üzerinde pulse/radar efekti korundu.
+
+## v8 Düzeltmesi
+
+- Sol menüdeki `SOM BTA / Kurumsal Demo Paneli` yazısı HTML seviyesinde tamamen kaldırıldı.
+- Logo alanı sadece SOM logosu olacak şekilde düzeltildi.
+- Türkiye haritası yeniden çizildi; önceki taktik polygon görünümünden daha tanınabilir bir Türkiye silüeti yapıldı.
